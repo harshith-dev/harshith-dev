@@ -1,7 +1,7 @@
 # Hi, I'm Sri Harshith G! 👋
 
 ## 👨‍💻 About Me
-I'm a highly motivated and passionate Computer Science graduate with a strong foundation in programming, machine learning, and cloud technologies. I am eager to leverage my technical expertise and problem-solving skills to contribute to innovative projects. I am committed to continuous learning and staying updated with the latest advancements in technology to drive impactful solutions and advance organizational goals.
+I'm a highly motivated and passionate Computer Science graduate with a strong foundation in programming, machine learning, Java technologies and cloud technologies. I am eager to leverage my technical expertise and problem-solving skills to contribute to innovative projects. I am committed to continuous learning and staying updated with the latest advancements in technology to drive impactful solutions and advance organizational goals.
 
 - 🌍 **Location:** Chittoor, India
 - 📫 **Email:** harshithgandla888@gmail.com
