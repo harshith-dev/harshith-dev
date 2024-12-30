@@ -29,7 +29,6 @@ I'm a highly motivated and passionate Computer Science graduate with a strong fo
 ## 💻 Skills
 - **Programming Languages:** Python, Java, SQL, C  
 - **Frameworks and Tools:**  
-  - Python: Scikit-Learn, TensorFlow, Keras, NumPy, Pandas, Streamlit, Pickle  
   - Java: Spring, Spring Boot, Maven, Hibernate, Spring MVC  
   - Web Development: HTML, CSS, JavaScript  
   - Databases: MS SQL, MySQL  
